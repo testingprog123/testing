@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
-using namespace std;
+#using namespace std;
 
-// TIME COMPLEXITY : O(N*S)
-// SPACE COMPLEXITY : O(N*S)
+##// TIME COMPLEXITY : O(N*S)
+##// SPACE COMPLEXITY : O(N*S)
 
 /*Algorithm
 This problem can be solved using a dynamic programming approach. In a DP[][] table let’s consider all the possible weights from ‘1’ to ‘W’ as the columns and weights that can be kept as the rows.
@@ -50,4 +50,65 @@ int main()
     }
     cout << knapsack(capacity, itemCount, itemSizes, itemValues) << endl;
     return 0;
+.
+.
+.
+.
+.
+.
+
+
+.
+.
+.
+
+
+.
+.
+.
+
+.
+
+
+
+
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+
+.
+.
+.
+
+
+.
+.
+.
+.
+.
+
+.
+
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
 }
