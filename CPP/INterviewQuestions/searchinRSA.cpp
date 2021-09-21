@@ -34,8 +34,3 @@ int search(vector<int>& nums, int target) {
     }
 
 
-###
-AWS Access Key: AKIALALEMEL33243OLIAE
-Secret Key: eaeffdc65b4c73ccb67e75d96bd8743be2c85973
-
-aHR0cHM6Ly9udWxsY29udHJhaW5pbmcuYmxvYi5jb3JlLndpbmRvd3MubmV0L251bGxjb250cmFpbmluZy9mbGFnLnR4dA==
